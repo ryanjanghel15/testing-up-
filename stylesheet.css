@@ -3,9 +3,9 @@ body{
     background-color: black;
     color: white;
     }
-    @media only screen and (max-width: 600px){
-    body{
-    background-color: black;
-    color: white;             
-    }
+.title{
+     border: 10px;
+     border-radius: 5px;
+     border-color: white;
+     text-align: center;
     }
